@@ -12,5 +12,5 @@ int main(int argc, char const *argv[])
 	return 0;
 }
 
-//gcc argumentos. -o argumentos.exe
+//gcc argumentos.c -o argumentos.exe
 //argumentos.exe 0 1 2 3 4 5 6 7 8 9 10
