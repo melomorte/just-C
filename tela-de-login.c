@@ -31,3 +31,4 @@ int main()
 
 	return 0;
 }
+//necessario alterações para não sobreescever as variaveis.
