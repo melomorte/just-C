@@ -16,7 +16,7 @@ int main(void)
 	char otimo[] = "Otimo";
 	char bom[] = "Bom";
 	char regular[] = "Regular";
-	char pessimo[] = "`Pessimo";
+	char pessimo[] = "Pessimo";
 
 	printf("\tQUIZ\n");
 	printf("digite seu nome: ");
